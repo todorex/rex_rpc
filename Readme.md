@@ -9,7 +9,7 @@ a lightweight rpc framework demo based on netty, zookeeper, spring
 
 ![rpc](https://github.com/todorex/rex_rpc/raw/master/image/rpc.png)
 
-# 模块组成：
+##  模块组成
 
 1. rpc-common：通用工具包
 2. rpc-registry: 注册中心接口
@@ -17,7 +17,7 @@ a lightweight rpc framework demo based on netty, zookeeper, spring
 4. rpc-server: 生产者服务端
 5. rpc-client: 消费者客户端
 
-#  案例
+## 案例
 
 1. 定义生产者接口（rpc-sample-api）
 
